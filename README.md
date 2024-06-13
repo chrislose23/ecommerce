@@ -48,3 +48,5 @@ Licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 [My Email Address](chrislose23@gmail.com)
 
+[My Video Walkthrough](https://app.screencastify.com/v3/watch/2Rgs1FbXi8MeUuXq0h9h)
+
